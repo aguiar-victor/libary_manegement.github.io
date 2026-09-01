@@ -1,2 +1,2 @@
-# libray_manegement.github.io
-library manegement system 
+# libary_manegement.github.io
+libary manegement system 
